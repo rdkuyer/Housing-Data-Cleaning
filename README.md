@@ -1,4 +1,4 @@
-# Housing-data-cleaning
+# Housing Data Cleaning
 In this project I clean the housing dataset in both Python and PostgreSQL.
 
 Key operations:
